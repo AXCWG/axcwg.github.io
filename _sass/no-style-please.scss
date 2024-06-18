@@ -6,6 +6,9 @@
 
     &.ioda { filter: invert(0); }
   }
+  code {
+    background-color: rgb(129, 129, 129)
+  }
 }
 
 body[a="dark"] { @include dark-appearance; }
