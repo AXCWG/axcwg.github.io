@@ -1,0 +1,39 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: 无聊的Blog；嘗試恢復語言表述能力
+      - title: xiey0, andyxie@moonshotacademy.cn, 13693590652. QQ Groupchat&#58; 816031361
+
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: 科技类
+    post_list:
+      category: tech
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: tech-archive.html
+
+  - title: 日常类
+    post_list:
+      category: normandy
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: normandy-archive.html
+
+  - title: rss
+    url: feed.xml
+  
+  - title: 存活着的企划
+    entries:
+      - title: MSA Forum System
+        url: http://andyxie.cn:7000
+      - title: 其他的居然就没了.
+      
