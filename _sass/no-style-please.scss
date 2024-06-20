@@ -1,8 +1,4 @@
-code{
-  font-family:"Fira Code";
-  font-weight: 300;
-  font-size:small;
-}
+
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   filter: invert(1);
@@ -11,10 +7,17 @@ code{
 
     &.ioda { filter: invert(0); }
   }
-  
+  code{
+    filter: invert(1);
+  }
   
 }
+code{
+  font-family:"Fira Code";
+  font-weight: 300;
+  font-size:small;
 
+}
 body[a="dark"] { @include dark-appearance; }
 
 

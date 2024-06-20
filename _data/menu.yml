@@ -28,6 +28,13 @@ entries:
       show_more_text: See more posts...
       show_more_url: normandy-archive.html
 
+  - title: 游戏
+    post_list: 
+      category: Games
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: games-archive.html
+
   - title: rss
     url: feed.xml
   
