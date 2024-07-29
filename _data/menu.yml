@@ -21,6 +21,13 @@ entries:
       show_more_text: See more posts...
       show_more_url: tech-archive.html
 
+  - title: 暴论
+    post_list:
+      category: hottake
+      show_more: true
+      show_more_test: See more posts...
+      show_more_url: hottake-archive.html
+
   - title: 日常类
     post_list:
       category: normandy
