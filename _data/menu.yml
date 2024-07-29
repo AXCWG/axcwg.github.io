@@ -19,35 +19,35 @@ entries:
       category: tech
       show_more: true
       show_more_text: See more posts...
-      show_more_url: tech-archive.html
+      show_more_url: tech-archive
 
   - title: 暴论
     post_list:
       category: hottake
       show_more: true
       show_more_test: See more posts...
-      show_more_url: hottake-archive.html
+      show_more_url: hottake-archive
 
   - title: 日常类
     post_list:
       category: normandy
       show_more: true
       show_more_text: See more posts...
-      show_more_url: normandy-archive.html
+      show_more_url: normandy-archive
 
   - title: 游戏
     post_list: 
       category: Games
       show_more: true
       show_more_text: See more posts...
-      show_more_url: games-archive.html
+      show_more_url: games-archive
 
   - title: rss
     url: feed.xml
   
   - title: 存活着的企划
     entries:
-      - title: MSA Forum System
-        url: http://andyxie.cn:7000
+      # - title: MSA Forum System
+      #   url: http://andyxie.cn:7000
       - title: 其他的居然就没了.
       
