@@ -49,10 +49,11 @@ $response = json_decode($json_response, true);
 ```
 
 ---
-
-[转载](https://stackoverflow.com/questions/6213509/send-json-post-request-with-php)
-
+<center>
+<a href="https://stackoverflow.com/questions/6213509/send-json-post-request-with-php">转载</a><br>
 这辈子没见过这么傻逼的语法，我是认真的。
+</center>
+
 
 ---
 
