@@ -3,8 +3,8 @@ permalink: /lostmedia/
 layout: post
 title: 失傳媒體
 category: normandy
-date: 2024-08-01 05:25:00 +0800
-last-modified-date: 2024-08-01 05:25:00 +0800
+date: 2024-08-02 05:25:00 +0800
+last-modified-date: 2024-08-02 05:25:00 +0800
 ---
 
 那些寶貴的記憶，怎麼就被忘卻了呢？
@@ -25,3 +25,6 @@ last-modified-date: 2024-08-01 05:25:00 +0800
 
 [[Anthology] Towako Oboro Emaki Ni [Chinese] [零食汉化组]](https://exhentai.org/g/1837210/394f33fe44)
 
+[[Anthology] Gekkan Web Otoko no Ko-llection! S Vol. 61 [Digital]](https://exhentai.org/g/1936730/9a6b6668ec/)
+
+-- You know what I should do? A fucking e-hentai embed. That's be so fucking cool. --
