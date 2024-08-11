@@ -42,6 +42,13 @@ entries:
       show_more_text: See more posts...
       show_more_url: games-archive
 
+  - title: H-Zone
+    post_list: 
+      category: hentai
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: hentai-archive
+
   - title: rss
     url: feed.xml
   
