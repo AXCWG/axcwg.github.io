@@ -49,6 +49,13 @@ entries:
       show_more_text: See more posts...
       show_more_url: hentai-archive
 
+  - title: 分裂
+    post_list: 
+      category: split
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: split-archive
+
   - title: rss
     url: feed.xml
   
@@ -61,4 +68,5 @@ entries:
       - title: 那些流失的記憶⋯⋯（同人誌記載）
         url: lostmedia
       - title: 其他的居然就没了.
+  
       

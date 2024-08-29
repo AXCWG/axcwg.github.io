@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: 短篇（前游戏设想）
 category: Games
