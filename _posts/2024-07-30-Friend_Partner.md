@@ -3,7 +3,7 @@ layout: post
 title: 朋友、伴侣 
 category: hottake
 date: 2024-07-30 04:04:00 +0800
-last-modified-date: 2024-07-30 04:04:00 +0800
+created-date: 2024-07-30 04:04:00 +0800
 ---
 
 交往浅的朋友：拥有共同兴趣爱好的人。  

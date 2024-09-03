@@ -3,8 +3,8 @@ published: false
 layout: post
 title: 短篇（前游戏设想）
 category: Games
-date: 2024-06-19 16:05:00 +0800
-last-modified-date: 2024-06-23 12:41:00 +0800
+date: 2024-06-23 12:41:00 +0800
+created-date: 2024-06-19 16:05:00 +0800
 ---
 <style>
     article{

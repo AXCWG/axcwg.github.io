@@ -8,8 +8,8 @@ layout: default
 <script>hljs.highlightAll();</script>
 <article>
   <p class="post-meta">
-    <time datetime="{{ page.date }}">Post: {{ page.date | date: site.theme_config.date_format_post }}</time><br>
-    <time datetime="{{ page.last-modified-date }}">Latest Mod.: {{ page.last-modified-date | date: site.theme_config.date_format_post}}</time>
+    <time datetime="{{ page.date }}">Date: {{ page.date | date: site.theme_config.date_format_post }}</time><br>
+    <time datetime="{{ page.last-modified-date }}">Created Date: {{ page.created-date | date: site.theme_config.date_format_post}}</time>
   </p>
   
   <h1>{{ page.title }}</h1>
