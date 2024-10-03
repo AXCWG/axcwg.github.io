@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>关于我（们）</title>
+    <link rel="shortcut icon" href="/logo.jpg">
+    <meta name="viewport" content="width=device-width, initial-scale=1, 
+        maximum-scale=1, user-scalable=no">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <meta charset="utf-8">
+    <style>
+        @media (prefers-color-scheme: dark) {
+            html {
+                filter: invert(1);
+
+            }
+
+            html img {
+                filter: invert(1);
+            }
+        }
+
+        .me:hover {
+            scale: 2 2;
+
+            .href a {
+                visibility: visible;
+                color: #000000;
+                margin-left: 10px;
+
+            }
+
+            .href img {
+                height: 100px;
+                scale: 1;
+            }
+
+        }
+
+        .me {
+            transition: scale .5s, visibility .5s;
+        }
+
+        .href {
+
+
+            img {
+                scale: 0;
+                transition: height .5s, scale .5s;
+                height: 30px;
+            }
+        }
+
+        .href a {
+
+            color: #FFFFFF00;
+            text-decoration: none;
+            transition: scale .5s, visibility .5s, color .5s, margin-left .5s;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div style="text-align: center; height: 100vh;display: flex;
+    
+            flex-direction:row;
+            flex-wrap:wrap;
+            justify-content:space-around;
+            align-items: center;
+           ">
+        <div class="me">
+            <div class="display-1">我</div>
+            <div class="href" style="display: flex; justify-content: space-around; align-items: center; ">
+                <img src="./logo.jpg" class="rounded-circle ">
+
+                <div class="href_text"
+                    style="display: flex; justify-content: space-around; align-items: start; flex-direction: column; ">
+                    <a href="mailto:xiey0@qq.com">Mail</a>
+                    <a href="https://space.bilibili.com/255413001">Bilibili</a>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>

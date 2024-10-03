@@ -6,6 +6,7 @@ entries:
     entries:
       - title: 无聊的Blog；嘗試恢復語言表述能力
       - title: xiey0, motherfaaron@gmail.com. QQ Groupchat&#58; 816031361
+      
 
   - title: all posts
     post_list:
@@ -69,6 +70,8 @@ entries:
         url: lostmedia
       - title: e-hentai嵌入式——例
         url: e-hentai_example
+      - title: 艺术细胞
+        url: art
       - title: 其他的居然就没了.
   
       
