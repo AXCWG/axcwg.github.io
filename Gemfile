@@ -6,3 +6,4 @@ gem "kramdown-parser-gfm"
 
 gemspec
 gem "webrick", "~> 1.8"
+gem "tzinfo", "~> 2.0.6"
